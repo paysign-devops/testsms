@@ -3,7 +3,7 @@
     "family": "twowaysms-test",
     "containerDefinitions": [
       {
-        "name": "twowaysms-test",
+        "name": "thirdtest",
         "image": "561688265541.dkr.ecr.us-east-1.amazonaws.com/twowaysms-test:latest",
         "cpu": 100,
         "portMappings": [
